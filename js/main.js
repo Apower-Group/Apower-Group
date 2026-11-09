@@ -1,4 +1,4 @@
-// AC & Appliances Co. — page behavior
+// APower Group — page behavior
 
 // ---------- Language toggle (English / 中文) ----------
 const root = document.documentElement;

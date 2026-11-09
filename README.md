@@ -1,6 +1,6 @@
-# AC & Appliances Co.
+# APower Group
 
-Website for AC & Appliances Co., a heating, cooling and home appliance store at 131-31 Fowler Ave, Flushing, NY 11355. The store sells and installs mini-splits, heat pumps and air conditioners, and serves all five boroughs of New York City and Long Island.
+Website for APower Group, a heating, cooling and home appliance store at 131-31 Fowler Ave, Flushing, NY 11355. The store sells and installs mini-splits, heat pumps and air conditioners, and serves all five boroughs of New York City and Long Island.
 
 ## About the site
 
